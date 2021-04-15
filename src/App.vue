@@ -18,9 +18,9 @@ export default {
   },
 }
 // JQuery //
- ready: function() {
- jQuery("#leftpupil").jqEye();
- }
+//  ready: function() {
+//  jQuery("#leftpupil").jqEye();
+//  }
 </script>
 
 <style>
