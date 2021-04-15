@@ -2,9 +2,9 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      Here I will be recreating and modernizing my 
+      <a href="https://jimmydotnet.github.io" target="_blank" rel="noopener">old landing page</a>,
+      that I created in coding bootcamp using Vue js and some other neat tools!
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Landing',
   props: {
     msg: String
   }
